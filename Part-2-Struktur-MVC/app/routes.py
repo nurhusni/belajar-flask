@@ -6,5 +6,5 @@ web.add_resource(MyViewController.MyViewController, '/')
 web.add_resource(MyViewController.MySecondViewController, '/say-my-name')
 
 # Latihan
-api.add_resource(MyController.MyFirstController, '/dua-parameter');
-api.add_resource(MyController.MySecondController, '/operasi-aritmatika');
+api.add_resource(MyController.MyFirstController, '/dua-parameter')
+api.add_resource(MyController.MySecondController, '/operasi-aritmatika')
